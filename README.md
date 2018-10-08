@@ -1,5 +1,6 @@
-#Js-sandbox
+# Js-sandbox
 
 This is a place for me to store kata solution and some interesting JS codes.
 
-##Kata
+## Kata
+- [AdjacentElementsProduct](/kata/adjacentElementsProduct)
